@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding产品宣发助手"
+  short_description: "为已完成产品生成自媒体图文、视频与内容池"
+  default_prompt: "使用 $vibe-product-gtm 读取我已经完成的产品，只做国内或海外、ToC或ToB的自媒体宣发内容，不评价产品意义，并生成内容池、图文案例、视频案例及HTML报告。"
